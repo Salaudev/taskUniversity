@@ -1,0 +1,64 @@
+Uri: https://allcalc.ru/images/addtohomescreenAndr.gif
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\images\addtohomescreenAndr.gif
+Content Type: image/gif
+
+Uri: https://allcalc.ru/images/addtohomescreenIOS.gif
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\images\addtohomescreenIOS.gif
+Content Type: image/gif
+
+Uri: https://allcalc.ru/misc/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\misc\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://allcalc.ru/misc/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\misc\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://allcalc.ru/misc/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\misc\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://allcalc.ru/misc/favicon.ico
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\misc\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://allcalc.ru/misc/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\misc\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://allcalc.ru/misc/site.webmanifest
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\misc\site.webmanifest
+Content Type: text/plain
+
+Uri: https://allcalc.ru/node/614
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\node\614.html
+Content Type: text/html
+
+Uri: https://allcalc.ru/sites/all/themes/flat/fonts/g01.woff2
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\sites\all\themes\flat\fonts\g01.woff2
+Content Type: text/plain
+
+Uri: https://allcalc.ru/sites/all/themes/flat/fonts/g02.woff2
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\sites\all\themes\flat\fonts\g02.woff2
+Content Type: text/plain
+
+Uri: https://allcalc.ru/sites/all/themes/flat/fonts/g03.woff2
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\sites\all\themes\flat\fonts\g03.woff2
+Content Type: text/plain
+
+Uri: https://allcalc.ru/sites/all/themes/flat/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\sites\all\themes\flat\jquery-3.2.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://allcalc.ru/sites/all/themes/flat/style.css
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\sites\all\themes\flat\style.css
+Content Type: text/css
+
+Uri: https://mc.yandex.ru/watch/45774741
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\watch\45774741
+Content Type: image/gif
+
+Uri: https://yandex.ru/ads/system/context.js
+File Name: C:\Downloaded Web Sites\3\allcalc.ru\ads\system\context.js
+Content Type: text/javascript
+

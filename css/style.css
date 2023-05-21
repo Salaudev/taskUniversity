@@ -1,0 +1,156 @@
+html, body {padding: 0;margin: 0;}
+body {
+background: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='2095.959' height='1710.322'%3e%3cpath d='M1.333 637.051h2093.292V1.333H1.333z' fill='%23fefefe' fill-rule='evenodd'/%3e%3cg fill='none' stroke='%23f7f9fa' stroke-width='2.126' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='22.926'%3e%3cpath d='M637.033 1370.791L448.38 919.073l-43.346-46.482' stroke-width='2.83465958'/%3e%3cpath d='M319.433 1020.591l202.52 74.649-127.32-203.049M432.124 1103.552l-118.092-73.463M440.669 1065.278l-20.036 177.012M661.433 1379.89l151.99-74.04-365.044-386.777M1010.423 963.05l-196.545 8.256-.455 334.545z' stroke-width='2.83465958'/%3e%3cpath d='M813.878 971.306l-365.5-52.233L928.824 706.25l-408.19-36.761M755.834 557.489l76.44 47.725-280.84 15.475M816.634 557.288l15.64 47.926 30.16 5.075 108.997-41.897' stroke-width='2.83465958'/%3e%3cpath d='M893.834 557.489l-31.4 52.8 66.389 95.961 81.6 256.8M971.431 568.392l377.944 180.01M1148.323 652.643L813.878 971.306' stroke-width='2.83465958'/%3e%3cpath d='M971.431 568.392l38.992 394.658 265.354-36.554M1116.824 1576.651l-303.401-270.8 189.978 58.955 7.022-401.756M1003.865 1475.83l-314.632-76.941M1003.401 1364.806l249.623 28.844M1116.824 1576.651l11.389-197.423' stroke-width='2.83465958'/%3e%3cpath d='M1003.401 1364.806l191.572-183.605 58.05 212.45 240.801-209.6-377 392.6 357.21 46.238M1187.634 1644.267l132.443-41.307M1258.224 1622.251l52.61 85.32M1401.707 1613.526l-34.872 94.045' stroke-width='2.83465958'/%3e%3cpath d='M1493.824 1184.05l75.41 34.438-452.41 358.163M1579.635 1472.324l-363.928 26.044M2023.635 670.887l-549.6 952.002M1978.036 641.287l-73.076 235.165-153.733-138.001 35.608 74.836-65.164 228.786 151.388-110.363M1720.759 777.287l1.432 415.752M1751.227 738.45l-198.728 305.712 88.736 207.526-12.215 102.738M1545.235 658.087l-52.03 343.942M1569.235 1218.488l-42.23-439.891M1275.777 926.496l-22.753 467.154M1493.824 1184.05l-.62-182.021-217.427-75.533 62.6 392.86M1010.423 963.05l253.633 204.107M1275.777 926.496l-127.454-273.853M1349.375 748.402l143.83 253.627' stroke-width='2.83465958'/%3e%3cpath d='M1822.457 802.392l-34.224-214.504-90.4-17.6M1751.227 738.45l-205.394-178.563M1614.528 619.609l-29.095-43.722M1503.033 557.887l42.202 100.2-25.802-21.036M1545.235 658.087l-195.86 90.315-45.942-190.515' stroke-width='2.83465958'/%3e%3c/g%3e%3cg fill='%23f7f9fa' fill-rule='evenodd'%3e%3cpath d='M448.379 903.873c8.395 0 15.2 6.805 15.2 15.2s-6.805 15.2-15.2 15.2-15.2-6.805-15.2-15.2 6.805-15.2 15.2-15.2M432.124 1094.847a8.705 8.705 0 1 1 0 17.41 8.705 8.705 0 0 1-8.705-8.705 8.705 8.705 0 0 1 8.705-8.705M813.878 962.756a8.55 8.55 0 1 1 0 17.1 8.55 8.55 0 0 1 0-17.1M1010.423 947.85c8.395 0 15.2 6.806 15.2 15.2 0 8.395-6.805 15.2-15.2 15.2s-15.2-6.805-15.2-15.2c0-8.394 6.805-15.2 15.2-15.2M1275.777 917.647a8.85 8.85 0 1 1 0 17.699 8.85 8.85 0 0 1 0-17.7M1349.375 739.75a8.65 8.65 0 0 1 8.651 8.652 8.65 8.65 0 0 1-8.65 8.652 8.65 8.65 0 0 1-8.653-8.652 8.65 8.65 0 0 1 8.652-8.651M928.823 697.542a8.708 8.708 0 1 1 0 17.416 8.708 8.708 0 0 1-8.708-8.708 8.708 8.708 0 0 1 8.708-8.708M832.275 596.506a8.708 8.708 0 0 1 8.708 8.708 8.708 8.708 0 1 1-17.416 0 8.708 8.708 0 0 1 8.708-8.708M971.431 558.292c5.579 0 10.1 4.522 10.1 10.1 0 5.579-4.521 10.1-10.1 10.1-5.578 0-10.1-4.521-10.1-10.1 0-5.578 4.522-10.1 10.1-10.1M1194.973 1172.545a8.656 8.656 0 0 1 0 17.311 8.656 8.656 0 1 1 0-17.311M813.423 1290.65c8.395 0 15.2 6.806 15.2 15.2 0 8.395-6.805 15.2-15.2 15.2s-15.2-6.805-15.2-15.2c0-8.394 6.805-15.2 15.2-15.2M1003.401 1355.949a8.857 8.857 0 0 1 8.858 8.857 8.857 8.857 0 0 1-8.858 8.858 8.858 8.858 0 0 1-8.857-8.858 8.857 8.857 0 0 1 8.857-8.857M1493.824 1168.85c8.395 0 15.2 6.806 15.2 15.2 0 8.395-6.805 15.2-15.2 15.2s-15.2-6.805-15.2-15.2c0-8.394 6.805-15.2 15.2-15.2M1253.024 1385.092a8.558 8.558 0 1 1 0 17.117 8.558 8.558 0 0 1 0-17.117M1116.824 1561.451c8.395 0 15.2 6.805 15.2 15.2s-6.805 15.2-15.2 15.2-15.2-6.805-15.2-15.2 6.805-15.2 15.2-15.2M1258.224 1607.051c8.395 0 15.2 6.805 15.2 15.2s-6.805 15.2-15.2 15.2c-8.394 0-15.2-6.805-15.2-15.2s6.806-15.2 15.2-15.2M1488.426 1469.995a8.856 8.856 0 1 1 0 17.712 8.856 8.856 0 0 1 0-17.712M1721.67 1033.715a8.358 8.358 0 1 1 0 16.716 8.358 8.358 0 0 1 0-16.716M1493.204 993.073a8.955 8.955 0 0 1 8.956 8.956 8.955 8.955 0 0 1-8.956 8.955 8.955 8.955 0 0 1-8.955-8.955 8.955 8.955 0 0 1 8.955-8.956M1751.227 723.251c8.394 0 15.2 6.805 15.2 15.2s-6.806 15.2-15.2 15.2c-8.395 0-15.2-6.805-15.2-15.2s6.805-15.2 15.2-15.2'/%3e%3c/g%3e%3cpath d='M1.333 65.69l209.492-37.638-37.93-26.719H1.332z' fill='%23eeeff2' fill-rule='evenodd'/%3e%3cpath d='M102.825 305.851l-63.8-118.322-37.692 34.988v97.314z' fill='%23f4f6f8' fill-rule='evenodd'/%3e%3cpath d='M574.828 1.333L455.225 168.251l114.799-63.202L608.409 1.333z' fill='%23f4f5f7' fill-rule='evenodd'/%3e%3cpath d='M263.625 147.851L569.31 1.333h-215.86L210.824 28.052z' fill='%23f5f6f8' fill-rule='evenodd'/%3e%3cpath d='M455.225 168.251l-352.4 137.6 128.4 235.601L482.023 344.25z' fill='%23f0f2f5' fill-rule='evenodd'/%3e%3cpath d='M263.625 147.851l191.6 20.4L574.828 1.333h-5.517z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M570.024 105.05L816.825 218.65 773.478 1.333h-165.07z' fill='%23f2f4f6' fill-rule='evenodd'/%3e%3cpath d='M231.226 541.452l-128.401-235.6-101.492 13.98v94.174zM200.825 597.452L1.333 443.583v193.468h9.624z' fill='%23f4f6f8' fill-rule='evenodd'/%3e%3cpath d='M482.022 344.25L231.226 541.451l275.553 10.893 156.796-100.063z' fill='%23f6f8f9' fill-rule='evenodd'/%3e%3cpath d='M816.825 218.651l188.4 15.598 20.788-92.604z' fill='%23f8f9fa' fill-rule='evenodd'/%3e%3cpath d='M816.825 218.651L984.94 1.333H773.478z' fill='%23f4f6f8' fill-rule='evenodd'/%3e%3cpath d='M1057.511 1.333l-31.498 140.312 117.996-43.437-23.647-96.875z' fill='%23f8f9fa' fill-rule='evenodd'/%3e%3cpath d='M1005.224 234.25L839.878 383.206l10.145 72.414 153.6-76.971z' fill='%23fdfefe' fill-rule='evenodd'/%3e%3cpath d='M774.819 282.69l42.006-64.039L482.022 344.25z' fill='%23f7f8fa' fill-rule='evenodd'/%3e%3cpath d='M39.025 187.529l63.8 118.322 160.8-158-52.8-119.8z' fill='%23f7f9fa' fill-rule='evenodd'/%3e%3cpath d='M482.022 344.25L816.825 218.65 570.024 105.05l-114.799 63.202z' fill='%23f5f7f9' fill-rule='evenodd'/%3e%3cpath d='M263.625 147.851l-160.8 158 352.4-137.6z' fill='%23f8f9fa' fill-rule='evenodd'/%3e%3cpath d='M1230.824 66.25l-26.856 209.352 240.457-141.753z' fill='%23f7f8fa' fill-rule='evenodd'/%3e%3cpath d='M1169.623 295.85l-164.399-61.6-1.602 144.4z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M839.878 383.207l-5.586-39.873-170.717 108.948 15.842 75.483z' fill='%23fafbfc' fill-rule='evenodd'/%3e%3cpath d='M850.023 455.621L681.95 539.845l11.67 55.606 75.474-29.683 91.326-35.917zM679.417 527.765l-15.841-75.484-156.797 100.064 139.243 5.505z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M839.878 383.207L679.417 527.765l2.534 12.08 168.072-84.224z' fill='%23f7f9fa' fill-rule='evenodd'/%3e%3cpath d='M663.575 452.282L774.82 282.691l-292.797 61.558z' fill='%23f4f5f7' fill-rule='evenodd'/%3e%3cpath d='M824.338 272.28l9.954 71.054 170.932-109.085z' fill='%23f7f8fa' fill-rule='evenodd'/%3e%3cpath d='M774.819 282.69l49.52-10.41-7.514-53.629z' fill='%23f4f5f7' fill-rule='evenodd'/%3e%3cpath d='M816.825 218.651l7.513 53.629 180.886-38.03z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M816.825 218.651l209.188-77.006L1057.51 1.333H984.94z' fill='%23f2f4f6' fill-rule='evenodd'/%3e%3cpath d='M1230.824 66.25l-61.2 229.6 34.344-20.248z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M1444.425 133.85l-251.203 171.199 278.8-92z' fill='%23f7f9fa' fill-rule='evenodd'/%3e%3cpath d='M1444.425 133.85l27.597 79.199 270.002 63.6z' fill='%23fdfdfe' fill-rule='evenodd'/%3e%3cpath d='M1444.425 133.85l297.6 142.8-164.4-181.2-136.945-11.53z' fill='%23fbfcfd' fill-rule='evenodd'/%3e%3cpath d='M1440.68 83.92l136.944 11.53-76.231-94.117h-66.907z' fill='%23f4f6f8' fill-rule='evenodd'/%3e%3cpath d='M1230.824 66.25l94.402-64.917h-141.402z' fill='%23f8f9fb' fill-rule='evenodd'/%3e%3cpath d='M1230.824 66.25l-47-64.917h-63.462l23.647 96.875z' fill='%23f7f8fa' fill-rule='evenodd'/%3e%3cpath d='M1026.013 141.645l-20.789 92.604 164.4 61.6 61.2-229.6z' fill='%23fafbfc' fill-rule='evenodd'/%3e%3cpath d='M1230.824 66.25l213.6 67.6-3.744-49.93z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M1230.824 66.25l209.856 17.67-6.194-82.587h-109.26z' fill='%23f0f2f4' fill-rule='evenodd'/%3e%3cpath d='M1577.624 95.45l164.4 181.2-38.582-127.181-15.417-50.82z' fill='%23fbfcfd' fill-rule='evenodd'/%3e%3cpath d='M1812.814 1.333l-27.19 111.316 206.801-38.4-99.78-72.916z' fill='%23f4f5f7' fill-rule='evenodd'/%3e%3cpath d='M1688.025 98.65l-30.55-97.317h-118.511z' fill='%23f0f2f4' fill-rule='evenodd'/%3e%3cpath d='M1777.355 143.754l-35.33 132.896 334-98-156.003-28.8z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M1577.624 95.45l110.4 3.2-149.06-97.317h-37.571z' fill='%23f0f2f5' fill-rule='evenodd'/%3e%3cpath d='M1785.625 112.65l-8.27 31.104 142.667 6.096 156.002 28.8 18.601.606v-31.89l-102.2-73.117z' fill='%23f7f8fa' fill-rule='evenodd'/%3e%3cpath d='M2005.077 1.333l58.867 59.364 30.681-5.814V1.333z' fill='%23f7f8f9' fill-rule='evenodd'/%3e%3cpath d='M1785.625 112.65l-97.6-14 15.417 50.819 73.913-5.715z' fill='%23f6f7f9' fill-rule='evenodd'/%3e%3cpath d='M1992.425 74.25l102.2 73.116v-55.73l-30.681-30.94z' fill='%23f0f2f4' fill-rule='evenodd'/%3e%3cpath d='M1785.625 112.65l27.189-111.317h-155.338l30.549 97.316z' fill='%23f4f6f8' fill-rule='evenodd'/%3e%3cpath d='M1777.355 143.754l-73.913 5.715 38.582 127.18z' fill='%23f0f2f5' fill-rule='evenodd'/%3e%3cpath d='M2063.944 60.697l30.681 30.94V54.883z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3cpath d='M1992.425 74.25l71.519-13.553-58.867-59.364h-112.432z' fill='%23f8f9fa' fill-rule='evenodd'/%3e%3cpath d='M210.825 28.052L353.45 1.333H172.894z' fill='%23f0f2f5' fill-rule='evenodd'/%3e%3cpath d='M39.025 187.529L1.333 117.626v104.89z' fill='%23f7f8fa' fill-rule='evenodd'/%3e%3cpath d='M39.025 187.529l171.8-159.477L1.333 65.69v51.936z' fill='%23f4f5f7' fill-rule='evenodd'/%3e%3cpath d='M774.819 282.69L663.575 452.283l170.717-108.948-9.954-71.054z' fill='%23f5f6f8' fill-rule='evenodd'/%3e%3cpath d='M1005.224 234.25L834.292 343.333l5.586 39.873z' fill='%23f9fafb' fill-rule='evenodd'/%3e%3c/svg%3e") no-repeat -2px 65px;
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+letter-spacing: -0.2px;
+color: #222;
+min-width: 1170px;
+overflow-y: scroll;
+}
+
+h1 {font-weight: 300; font-size: 32px; margin: 0 0 32px;}
+h2, #subcategory_list h3 {
+padding: 0px;
+font-size: 25px;
+margin: 0px 0px 6px;
+font-weight: normal;
+color: #333
+}
+form h3 {
+padding: 0px;
+font-size: 22px;
+margin: 0px 0px 6px;
+font-weight: normal;
+color: #333
+}
+h3 {color: #000;font-size: 12px;}
+dt, dd {
+border: 0px !important;
+margin: 0px;
+padding: 0px !important;
+}
+table {border-spacing: 0px;}
+td, tbody {padding: 0px; border: 0px; vertical-align: top;}
+ul {list-style: none; margin: 0px; padding: 0px;}
+li , ul li.leaf {
+list-style-image: none;
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+}
+.breadcrumb li{display: inline-block;}
+li.expanded ul {margin: 4px 0px 0px 10px; width: 100%;}
+
+label, legend, .views-field-created {font-weight: normal; color: #888;}
+form .my_table label {color: #222;}
+input[type="submit"] {
+background: #999;
+border: none;
+padding: 4px 6px;
+font-size: 13px;
+color: #fff;
+width: auto;
+border-radius: 3px;
+}
+input[type="submit"]:hover {background: #888; cursor: pointer;}
+.breadcrumb {color: #d0d0d0;}
+.breadcrumb a {
+color: #3E3D4F;
+display: inline;
+margin: 4px 0 0;
+padding: 0 9px;
+text-decoration: none;
+}
+.breadcrumb.indent {position: absolute; margin: 45px 0 0 91px; width: 1070px;}
+#header {
+background: #514E71;
+height: 68px;
+position: absolute; /*fixed*/
+top: 0;
+right: 0;
+left: 0;
+width: 100%;
+z-index: 999999;
+}
+
+
+#block-block-41 {position: absolute; left: 190px;}
+#block-block-41 p {margin: 0;}
+#block-block-41 #allcalcs {border-top: 4px solid #514E71; color: #fff; cursor: pointer; float: left; font-size: 16px; font-weight: 400; padding: 20px 0 0 32px; transition: 0.2s;}
+#block-block-41 #allcalcs.active {border-top: 4px solid #E7C250; color: #E7C250;}
+#block-menu-menu-header {position: absolute; top: 24px; left: 401px;}
+#block-menu-menu-header li {display: inline; margin: 0 32px 0 0;}
+#block-menu-menu-header li.last {margin: 0 0 0 35px;}
+#block-menu-menu-header a {color: #fff; font-size: 16px; font-weight: 400; text-decoration: none;}
+
+
+#main {width: 1170px; margin: 0 auto;}
+#content {margin: 105px 0 0;}
+
+h1#cat-200 {background: url(images/h1_icon_1c.svg) no-repeat;
+background-size: 72px 72px;
+margin: 0 0 22px;
+padding: 0 0 30px 100px;}
+h1#cat-201 {background: url(images/h1_icon_2c.svg) no-repeat;
+background-size: 73px 73px;
+margin: 0 0 22px;
+padding: 0 0 30px 100px;}
+h1#cat-213 {background: url(images/h1_icon_3c.svg) no-repeat;
+background-size: 73px 73px;
+margin: 0 0 22px;
+padding: 0 0 30px 100px;}
+h1#cat-218 {background: url(images/h1_icon_4c.svg) no-repeat;
+background-size: 73px 73px;
+margin: 0 0 22px;
+padding: 0 0 30px 100px;}
+h1#cat-222  {background: url(images/h1_icon_5c.svg) no-repeat;
+background-size: 73px 73px;
+margin: 0 0 22px;
+padding: 0 0 30px 100px;}
+h1#cat-287 {background: url(images/h1_icon_6c.svg) no-repeat;
+background-size: 73px 73px;
+margin: 0 0 22px;
+padding: 0 0 30px 100px;}
+h1#cat-1341, #node-787 h1#cat-0{background: url(images/converters_h1c.svg) no-repeat;
+background-size: 73px 73px;
+margin: 0 0 22px;
+padding: 0 0 30px 100px;}
+#calc_android {background: url('images/calc_android.png') no-repeat 15px 10px;
+border: 1px solid #C1D538;
+padding: 13px 6px 13px 78px;
+width: 280px;
+height: 38px;
+font-size: 14px;
+position: absolute;
+}
+form[name="form"] label, #form_ca label, form.calc label {color:#222}
+form.calc, form[name="form"] td, #form_ca td, form.calc td {vertical-align: middle; padding: 3px 5px;}
+form.calc, form[name="form"], #form_ca {display: inline-block; background: #fff; box-shadow: 0 5px 20px #E4E4E6; margin: 0 0 60px 260px/*360*/; min-height: 200px; padding: 20px 30px; min-height: 320px; overflow-anchor:none;touch-action:manipulation;}
+form.calc h2, form[name="form"] h2, #form_ca h2 {font-weight: 300; margin: 0 0 16px;}
+form.calc a, form[name="form"] a, #form_ca a {color: #485291;text-decoration: underline;}
+form.calc input[type="text"], form.calc input[type="number"] , form[name="form"] input[type="text"], #form_ca input[type="text"], #form_ca input[type="number"], form[name="form"] input[type="number"], form[name="form"] input[type="time"]  {border: 1px solid #CCD0D3; font-family: 'Open Sans', sans-serif; font-size: 16px; margin: 3px 0 6px; padding: 8px 0px 8px 4px;}
+form[name="form"] input[type="text1"], #form_ca input[type="text1"] {border: 1px solid #ececec; font-family: 'Open Sans', sans-serif; font-size: 16px; margin: 3px 0 6px; padding: 8px 0px 8px 9px;}
+form[name="form"] select, #form_ca select {border: 1px solid #CCD0D3; font-family: 'Open Sans', sans-serif; font-size: 16px; margin: 3px 0 6px; padding: 8px 0px 8px 1px;background: none;}
+form[name="form"] select.stretch.nobrd {border:none !important;font-size: 15px;margin: 3px 0 6px;padding: 7px 0px 8px 1px;}
+form[name="form"] select.stretch.nobrd.noint {margin-left: -5px;}
+form[name="form"] select.stretch, form[name="form"] .pypyn #separatorl, form[name="form"] .selaff select {cursor:pointer}
+form.calc input[type="button"], form.calc button, form.calc input[type="submit"], form[name="form"] input[type="button"], form[name="form"] button, #form_ca input[type="button"], form[name="form"] input[type="submit"], #form_ca input[type="submit"], #form_ca button, #form_ca input[type="reset"], form[name="form"] input[type="reset"] {background: #FFA310; border: none; border-radius: 3px; color: #fff; font-family: 'Open Sans', sans-serif; font-size: 14px; margin: 0 0 15px 10px; padding: 11px 16px 10px; cursor: pointer;-webkit-appearance: none;-webkit-text-size-adjust:none;}
+form.calc input[type="button"]:active, form.calc input[type="submit"]:active, form[name="form"] input[type="button"]:active, #form_ca input[type="button"]:active, form[name="form"] input[type="submit"]:active, #form_ca input[type="submit"]:active, #form_ca input[type="reset"]:active, form[name="form"] input[type="reset"]:active {
+box-shadow:inset 0 0 0 160px #f0903b;
+transition: all 0.15s ease;
+}
+form #calculate-button:not(:active){transition:.7s}
+form[name="form"].convert input[type="button"]:active{box-shadow:none!important;}
+form.calc p, form[name="form"] p, #form_ca p{line-height: 150%;}
+.formleft {margin:0!important; float:left; }
+.formleftPic {margin:0!important; float:left; position:absolute}
+.formleftyou1 {margin:0!important; float:left; width:100%;max-width:560px;}
+.hidden {display: none;}
+.textareafont{
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+box-sizing: border-box;
+padding:2px 4px 1px 6px;
+color:#2a2a2a;
+}
